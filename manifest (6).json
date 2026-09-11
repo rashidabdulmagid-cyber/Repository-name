@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "مجموعه العاب",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Game",
+  "start_url": "/",
+  "theme_color": "#06080e",
+  "id": "/myapp",
+  "description": "تطبيق ألعاب"
+}
